@@ -72,7 +72,7 @@
                                     }
                                   ],
                                   "_mark": "game_view",
-                                  "_content": "[LABEL {this.title}\n{this.desc}\n{this.goal}][BGNDVIDEO {this.asset_name}.mp4]"
+                                  "_content": "[LABEL {this.title}\n{this.desc}\n{this.goal}][BGNDVIDEO {this.asset_name}.mp4][ANSWERSORDER ON]"
                                 }
                               ],
                               "_mark": "",
@@ -168,7 +168,7 @@
                     }
                   ],
                   "_mark": "page1",
-                  "_content": "[LABEL Симуляторы Гопника. Выбери часть.{this.ret=\"page1\";'';}][BGNDVIDEO gl_p1.mp4]"
+                  "_content": "[LABEL Симуляторы Гопника. Выбери часть.{this.ret=\"page1\";'';}][BGNDVIDEO gl_p1.mp4][ANSWERSORDER ON]"
                 }
               ],
               "_mark": "mark_jq3z9230b0d555d900as",
@@ -234,7 +234,7 @@
                     }
                   ],
                   "_mark": "page2",
-                  "_content": "[LABEL Другие игры. Выбери из списка:][BGNDVIDEO gl_p2.mp4]"
+                  "_content": "[LABEL Другие игры. Выбери из списка:][BGNDVIDEO gl_p2.mp4][ANSWERSORDER ON]"
                 }
               ],
               "_mark": "",
