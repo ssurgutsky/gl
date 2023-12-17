@@ -1,0 +1,250 @@
+﻿{
+  "node": [
+    {
+      "node": [
+        {
+          "node": [
+            {
+              "node": [
+                {
+                  "node": [
+                    {
+                      "node": [
+                        {
+                          "node": [
+                            {
+                              "node": [
+                                {
+                                  "node": [
+                                    {
+                                      "node": [
+                                        {
+                                          "node": [
+                                            {
+                                              "node": [
+                                                {
+                                                  "_mark": "mark_9jo3p670my4yd7759j1l",
+                                                  "_content": "[LABEL ][GOTO {this.ret}]"
+                                                }
+                                              ],
+                                              "_mark": "",
+                                              "_content": "[LABEL ]"
+                                            }
+                                          ],
+                                          "_mark": "mark_8h0b12g6rh0149d0858h",
+                                          "_content": "[LABEL ][NAVIGATEURL {this.url=this.main_url+\"/\"+this.asset_name}]"
+                                        }
+                                      ],
+                                      "_mark": "play_fb",
+                                      "_content": "[LABEL Играть здесь]"
+                                    },
+                                    {
+                                      "node": [
+                                        {
+                                          "node": [
+                                            {
+                                              "node": [
+                                                {
+                                                  "_mark": "mark_29q1605w8r3fq17fc9cr",
+                                                  "_content": "[LABEL ][GOTO {this.ret}]"
+                                                }
+                                              ],
+                                              "_mark": "",
+                                              "_content": "[LABEL ]"
+                                            }
+                                          ],
+                                          "_mark": "mark_1c66zgrk1d7m06f7351y",
+                                          "_content": "[LABEL ][NAVIGATEURL {this.vk_url}]"
+                                        }
+                                      ],
+                                      "_mark": "play_vk",
+                                      "_content": "[LABEL Играть ВКонтакте]"
+                                    },
+                                    {
+                                      "node": [
+                                        {
+                                          "_mark": "mark_695al07btrm47db7vg73",
+                                          "_content": "[LABEL ][GOTO {this.ret}]"
+                                        }
+                                      ],
+                                      "_mark": "go_page1",
+                                      "_content": "[LABEL Назад]"
+                                    }
+                                  ],
+                                  "_mark": "game_view",
+                                  "_content": "[LABEL {this.title}\n{this.desc}\n{this.goal}][BGNDVIDEO {this.asset_name}.mp4]"
+                                }
+                              ],
+                              "_mark": "",
+                              "_content": "[LABEL ]"
+                            }
+                          ],
+                          "_mark": "mark_2t4206v2k82o89d5amg2",
+                          "_content": "[LABEL {this.title=\"Симулятор гопника, часть 1\";this.desc=\"К тебе подваливает гопарь и начинает трясти деньги\";this.goal=\"Задача: вытрясти деньги с него самого\";this.vk_url=\"https://vk.com/app2940600\";this.asset_name=\"sg\";'';}][GOTO game_view]"
+                        }
+                      ],
+                      "_mark": "",
+                      "_content": "[LABEL Стоп Гоп 1. Внезапная встреча.]"
+                    },
+                    {
+                      "node": [
+                        {
+                          "_mark": "mark_2kedf1me812pl2n36vec",
+                          "_content": "[LABEL {this.title=\"Gopnik simulator, part1.\";this.desc=\"A bully comes to you and gonna take your money.\";this.goal=\"Goal: take money from himself.\";this.url=this.main_url+\"/sg1\"; this.vk_url=\"https://vk.com/app2940600\";this.asset_name=\"sg1\";'';}][GOTO game_view]"
+                        }
+                      ],
+                      "_mark": "",
+                      "_content": "[LABEL Stop Gop1. English.]"
+                    },
+                    {
+                      "node": [
+                        {
+                          "_mark": "mark_c6h1018977sk2w6cur70",
+                          "_content": "[LABEL {this.title=\"Симулятор гопника, часть 1. Расширенная.\";this.desc=\"Дополнительные диалоги и финалы.\";this.goal=\"Задача: найти еще более крутой финал\";this.vk_url=\"https://vk.com/app7533874\";this.asset_name=\"sg16\";'';}][GOTO game_view]"
+                        }
+                      ],
+                      "_mark": "",
+                      "_content": "[LABEL Стоп Гоп 1.6. Расширенная версия.]"
+                    },
+                    {
+                      "node": [
+                        {
+                          "_mark": "mark_4b9l1q436vs3a2i1ec1p",
+                          "_content": "[LABEL {this.title=\"Симулятор гопника, часть 2. Новый развод. Месть гопа.\";this.desc=\"На этот раз ты в роли гопника.\";this.goal=\"Задача: протрясти лоха. Но лох не так прост!\";this.vk_url=\"https://vk.com/app2949895\";this.asset_name=\"sg2\";'';}][GOTO game_view]"
+                        }
+                      ],
+                      "_mark": "",
+                      "_content": "[LABEL Стоп Гоп 2. Новый развод. Месть гопа.]"
+                    },
+                    {
+                      "node": [
+                        {
+                          "_mark": "mark_12541qr9hafn3f451996",
+                          "_content": "[LABEL {this.title=\"Симулятор гопника 3. Полицейская история.\";this.desc=\"Ты - полицейский, во время патрулирования натыкаешься на двух отморозков и их жертву.\";this.goal=\"Задача: ликвидировать всех бандитов и спасти жертву.\";this.vk_url=\"https://vk.com/app2949903\";this.asset_name=\"sg3\";'';}][GOTO game_view]"
+                        }
+                      ],
+                      "_mark": "",
+                      "_content": "[LABEL Стоп Гоп 3. Полицейская история.]"
+                    },
+                    {
+                      "node": [
+                        {
+                          "_mark": "mark_0hskvu6dtr530ofp82qi",
+                          "_content": "[LABEL {this.title=\"Симулятор гопника, часть 4. Погоняло.\";this.desc=\"К тебе подваливает гопарь и предлагает пройти тест на пацана.\";this.goal=\"Задача: узнать свое реальное погоняло.\";this.vk_url=\"https://vk.com/app7515394\";this.asset_name=\"sg4\";'';}][GOTO game_view]"
+                        }
+                      ],
+                      "_mark": "",
+                      "_content": "[LABEL Стоп Гоп 4. Погоняло.]"
+                    },
+                    {
+                      "node": [
+                        {
+                          "_mark": "mark_feach6865c0d288z4b9i",
+                          "_content": "[LABEL {this.title=\"Симулятор гопника, часть 5. Подстава.\";this.desc=\"К тебе подваливает гопарь и говорит, что ты не отдаешь долг его корешу.\";this.goal=\"Задача: разобраться в ситуации и разрулить конфликт.\";this.vk_url=\"https://vk.com/app7996773\";this.asset_name=\"sg5\";'';}][GOTO game_view]"
+                        }
+                      ],
+                      "_mark": "",
+                      "_content": "[LABEL Стоп Гоп 5. Подстава.]"
+                    },
+                    {
+                      "node": [
+                        {
+                          "_mark": "mark_8birow408270z8g0079i",
+                          "_content": "[LABEL {this.title=\"Симулятор гопника, часть 6. Афера.\";this.desc=\"К тебе подваливает гопарь и предлагает помочь ему в делах.\";this.goal=\"Задача: найти свою выгоду и развести гопа.\";this.vk_url=\"https://vk.com/app7996773\";this.asset_name=\"sg666\";'';}][GOTO game_view]"
+                        }
+                      ],
+                      "_mark": "",
+                      "_content": "[LABEL Стоп Гоп 6. Афера.]"
+                    },
+                    {
+                      "node": [
+                        {
+                          "_mark": "mark_94ma59qjx428692jl7nz",
+                          "_content": "[LABEL ][GOTO START]"
+                        }
+                      ],
+                      "_mark": "back_main",
+                      "_content": "[LABEL Назад]"
+                    }
+                  ],
+                  "_mark": "page1",
+                  "_content": "[LABEL Симуляторы Гопника. Выбери часть.{this.ret=\"page1\";'';}][BGNDVIDEO gl_p1.mp4]"
+                }
+              ],
+              "_mark": "mark_jq3z9230b0d555d900as",
+              "_content": "[LABEL Симуляторы Гопника]"
+            },
+            {
+              "node": [
+                {
+                  "node": [
+                    {
+                      "node": [
+                        {
+                          "_mark": "mark_aamu05gqo496f46n58i8",
+                          "_content": "[LABEL {this.title=\"Таксоман. Симулятор таксиста.\";this.desc=\"Приключения таксиста в родном городе.\";this.goal=\"Задача: пройти все миссии и выплатить кредит.\";this.vk_url=\"https://vk.com/app2884256\";this.asset_name=\"taxoman\";'';}][GOTO game_view]"
+                        }
+                      ],
+                      "_mark": "",
+                      "_content": "[LABEL Таксоман]"
+                    },
+                    {
+                      "node": [
+                        {
+                          "_mark": "mark_77610bp81p0uv2o3dfqk",
+                          "_content": "[LABEL {this.title=\"Военкомат.\";this.desc=\"Юмористический квест про призыв в армию.\";this.goal=\"Задача: избежать незаконного призыва.\";this.vk_url=\"https://vk.com/app4559650\";this.asset_name=\"voenkomat\";'';}][GOTO game_view]"
+                        }
+                      ],
+                      "_mark": "",
+                      "_content": "[LABEL Военкомат]"
+                    },
+                    {
+                      "node": [
+                        {
+                          "_mark": "mark_xm5s37vufo99yv1x5pc9",
+                          "_content": "[LABEL {this.title=\"Алконавты.\";this.desc=\"Трое друзей собрались в очередной раз...\";this.goal=\"Задача: весело провести время, а потом нормально добраться домой.\";this.vk_url=\"https://vk.com/app4425285\";this.asset_name=\"alco\";'';}][GOTO game_view]"
+                        }
+                      ],
+                      "_mark": "",
+                      "_content": "[LABEL Алконавты]"
+                    },
+                    {
+                      "node": [
+                        {
+                          "_mark": "mark_m22uxwuyhve1nf29r8qd",
+                          "_content": "[LABEL {this.title=\"Холодильник.\";this.desc=\"У тебя перегорел холодильник.\";this.goal=\"Задача: раздобыть новый, но вряд ли это у тебя получится...\";this.vk_url=\"https://vk.com/app7506098\";this.asset_name=\"fridge\";'';}][GOTO game_view]"
+                        }
+                      ],
+                      "_mark": "",
+                      "_content": "[LABEL Холодильник]"
+                    },
+                    {
+                      "node": [
+                        {
+                          "_mark": "mark_872fw5dd074lx1oc0sno",
+                          "_content": "[LABEL {this.title=\"Аполачо.\";this.desc=\"На Землю напали роботы-пришельцы.\";this.goal=\"Задача: уничтожить их всех.\";this.url=this.main_url+\"/pb2\"; this.vk_url=\"https://vk.com/app7799481\";this.asset_name=\"pb2\";'';}][GOTO game_view]"
+                        }
+                      ],
+                      "_mark": "",
+                      "_content": "[LABEL Аполачо]"
+                    },
+                    {
+                      "_mark": "",
+                      "_content": "[LABEL ][GOTO back_main]"
+                    }
+                  ],
+                  "_mark": "page2",
+                  "_content": "[LABEL Другие игры. Выбери из списка:][BGNDVIDEO gl_p2.mp4]"
+                }
+              ],
+              "_mark": "",
+              "_content": "[LABEL Другие игры...{this.ret=\"page2\";'';}]"
+            }
+          ],
+          "_mark": "START",
+          "_content": "[LABEL Приветствуем тебя на нашем игровом портале! (v1.{this.game_version})\nВыбери игру из списка:\n{script init.qsp}][BGPICTURE logo.jpg][BGNDVIDEO none][ANSWERSORDER ON]"
+        }
+      ]
+    }
+  ]
+}
